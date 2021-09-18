@@ -1,0 +1,16 @@
+
+img{
+    width: 40%;
+    float: right;
+    box-shadow:-1px  -1px  black;
+    margin:4px;
+}
+
+article{
+    display: flex;;
+    text-align: justify;
+    clear:both;
+ }
+
+ 
+ 
